@@ -10,7 +10,6 @@ version = { workspace = true }
 
 [dependencies]
 # Test utility
-zaino-testutils = { workspace = true }
 zaino-fetch = { workspace = true }
 zaino-proto.workspace = true
 zaino-state = { workspace = true, features = ["bench"] }

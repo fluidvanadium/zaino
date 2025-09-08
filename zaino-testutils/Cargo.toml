@@ -22,7 +22,6 @@ zebra-chain = { workspace = true }
 
 # Zingo-infra
 zingo-infra-services = { workspace = true }
-zingo-infra-testutils = { workspace = true }
 
 # ZingoLib
 zingolib = { workspace = true }
